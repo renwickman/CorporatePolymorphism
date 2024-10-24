@@ -1,0 +1,14 @@
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\bin\Debug\net8.0\CorporatePolymorphism.exe
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\bin\Debug\net8.0\CorporatePolymorphism.deps.json
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\bin\Debug\net8.0\CorporatePolymorphism.runtimeconfig.json
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\bin\Debug\net8.0\CorporatePolymorphism.dll
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\bin\Debug\net8.0\CorporatePolymorphism.pdb
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\obj\Debug\net8.0\CorporatePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\obj\Debug\net8.0\CorporatePolymorphism.AssemblyInfoInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\obj\Debug\net8.0\CorporatePolymorphism.AssemblyInfo.cs
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\obj\Debug\net8.0\CorporatePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\obj\Debug\net8.0\CorporatePolymorphism.dll
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\obj\Debug\net8.0\refint\CorporatePolymorphism.dll
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\obj\Debug\net8.0\CorporatePolymorphism.pdb
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\obj\Debug\net8.0\CorporatePolymorphism.genruntimeconfig.cache
+C:\Users\renwi\Desktop\CsharpProjects\CorporatePolymorphism\obj\Debug\net8.0\ref\CorporatePolymorphism.dll
